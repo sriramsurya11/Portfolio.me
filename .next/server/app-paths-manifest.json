@@ -1,0 +1,4 @@
+{
+  "/api/doodles/route": "app/api/doodles/route.js",
+  "/page": "app/page.js"
+}
